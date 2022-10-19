@@ -1,0 +1,53 @@
+body{
+    margin: 0 10px 0 10px;
+}
+
+header{
+    border-bottom: solid;
+}
+.header{
+    display: inline-block;
+    margin: 20px 10% 20px 10%;
+}
+
+table{
+    margin: auto;
+}
+
+body{
+    margin: 0 10px 0 10px;
+}
+
+header{
+    border-bottom: solid;
+}
+
+.header{
+    display: inline-block;
+    margin: 20px 10% 20px 10%;
+}
+
+table{
+    margin: auto;
+}
+
+.scke_detail{    
+    margin: 0 10% 0 10%;
+    padding: 0 30% 0 30%;
+}
+
+#scke_name{
+    padding-left:30px;
+}
+.secondary{
+    margin-top: 50px
+}
+
+.bottom_buttons{
+    margin: 5px 10% 0 40%;
+}
+.bottom_button{
+    display: inline-block;
+    margin: 5px 5% 0 5%;
+}
+
