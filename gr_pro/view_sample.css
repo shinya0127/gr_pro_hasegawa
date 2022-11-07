@@ -1,0 +1,15 @@
+body{
+    margin: 0 10px 0 10px;
+}
+
+header{
+    border-bottom: solid;
+}
+h1, .header{
+    display: inline-block;
+}
+
+p, .header{
+    display: inline-block;
+    margin: 20px 7% 20px 7%;
+}
